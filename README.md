@@ -6,7 +6,7 @@ Bem-vindo ao **Spring-Easy-Mode**, um repositório dedicado ao aprendizado e à 
 
 O repositório é organizado da seguinte maneira:
 
-- **security**: Este projeto demonstra como implementar [Descrição do Projeto 1, ex: Spring Security].
+- **[security](./security)**: Este projeto demonstra como implementar Spring Security.
 
 ## Objetivo
 
